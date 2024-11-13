@@ -2,7 +2,7 @@
 
 Bienvenido al repositorio de la asignatura de **Investigación Operativa**. Este repositorio contiene los materiales, ejercicios y recursos necesarios para seguir el curso y practicar los conceptos fundamentales de la asignatura.
 
-## Estructura de Carpetas
+## Estructura de carpetas
 
 El contenido del repositorio se organiza en carpetas correspondientes a cada uno de los temas de la asignatura en los que se incluyen ejercicios prácticos:
 
@@ -12,7 +12,7 @@ El contenido del repositorio se organiza en carpetas correspondientes a cada uno
 
 Cada carpeta contiene ejercicios específicos diseñados para aplicar los conocimientos del tema correspondiente. A continuación, se describe el contenido de cada uno.
 
-## Contenido por Carpeta
+## Contenido por carpeta
 
 ### tema2: Optimización Lineal
 En esta carpeta encontrarás ejercicios que cubren los aspectos clave de la **Optimización Lineal**:
@@ -35,13 +35,13 @@ En la carpeta **tema4**, se abordan ejercicios de:
 - Modelos poissonianos y redes de colas.
 - Cálculo de medidas de eficiencia en sistemas de espera.
 
-## Instrucciones para Completar los Ejercicios
+## Instrucciones para completar los ejercicios
 
 1. Navega hasta la carpeta correspondiente al tema en el que estés trabajando.
 2. Revisa el archivo de ejercicios para familiarizarte con los problemas planteados.
 3. Resuelve los ejercicios aplicando los conceptos vistos en clase.
 
-## Requisitos de Software
+## Requisitos de software
 
 Los ejercicios de optimización lineal requeriren el uso de la herramienta **GurobiPy**, que es un software de optimización. 
 
