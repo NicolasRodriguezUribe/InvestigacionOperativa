@@ -62,7 +62,8 @@ def simulate_priority_queue(lambda_rate, mu_rate, num_customers, priority_levels
     # Calcular métricas
     #average_wait = np.mean(wait_times)
     #average_system_time = np.mean(system_times)
-    server_utilization = np.sum(service_times) / service_end_times[-1] if service_end_times[-1] > 0 else 0
+    t_final = max(service_end_times)  # Máximo tiempo de servicio terminado
+    server_utilization = np.sum(service_times) / t_final if t_final > 0 else 0
 
     return wait_times, system_times, priorities, server_utilization
 
